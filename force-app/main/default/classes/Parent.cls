@@ -4,6 +4,6 @@ public with sharing class Parent {
     }
     public void getSomething()
     {
-        System.debug('this is the parent');
+        System.debug('this is the parent class');
     }
 }
